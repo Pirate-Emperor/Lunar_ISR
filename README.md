@@ -1,8 +1,6 @@
 
 # ISR - Swin2sr Image Super Resolution
 
-![ISR Logo](url_to_logo_image)
-
 ISR (Image Super Resolution) is a sophisticated image enhancement project developed by Pirate-Emperor. Leveraging the state-of-the-art Swin2sr model, ISR allows users to significantly improve the resolution of their images while preserving fine details.
 
 ## Table of Contents
