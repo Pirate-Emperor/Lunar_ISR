@@ -23,6 +23,12 @@ ISR (Image Super Resolution) is a sophisticated image enhancement project develo
 - **Configurability:** Advanced users can customize parameters for specific use cases.
 - **Open Source:** ISR is an open-source project, encouraging collaboration and improvement.
 
+## Screenshots
+![](images/ali_eye.jpg)
+![](images/gojou-eyes.jpg)
+![](images/chain-eye.jpg)
+
+
 ## Getting Started
 
 Follow these instructions to set up and use ISR on your local machine.
